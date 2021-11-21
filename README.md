@@ -93,4 +93,4 @@ Start the server
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/shivansh5)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh5/)
 
-
+<img src="https://github.com/Shivansh5/my-image/blob/main/IMG_20211024_192509_1.jpg?raw=true" height=100 weight=100/>
