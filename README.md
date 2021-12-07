@@ -1,6 +1,18 @@
 
 # Fake News Detection 🗞
 
+Table of Contents
+=================
+
+   * [Demo](#demo)
+   * [Overview <g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍️</g-emoji>](#overview-️)
+   * [Motivation <g-emoji class="g-emoji" alias="muscle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png">💪</g-emoji>](#motivation-)
+   * [Architecture <g-emoji class="g-emoji" alias="classical_building" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3db.png">🏛</g-emoji>](#architecture-)
+   * [Define Algorithm <g-emoji class="g-emoji" alias="brain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png">🧠</g-emoji>](#define-algorithm-)
+   * [Run Locally](#run-locally)
+   * [Tech Stack](#tech-stack)
+   * [Authors](#authors)
+   * [Social Link](#-social-link)
 
 
 ## Demo
